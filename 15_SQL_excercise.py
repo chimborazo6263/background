@@ -1,5 +1,7 @@
+# Learning python. Creating SQL database.
 # Znalezienie w pliku adresow email, wyodrebnienie hosta i stworzenie bazy danych z parametrami org oraz count
 # Find email address in file, extract host name and create database with counts in sqlite
+
 
 import sqlite3
 
